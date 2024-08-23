@@ -1,0 +1,27 @@
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Conda configuration and cache
+*.condarc
+*.conda
+
+# Temporary files
+*.log
+*.tmp
+*.swp
